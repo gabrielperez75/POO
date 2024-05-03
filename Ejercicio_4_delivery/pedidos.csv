@@ -1,0 +1,6 @@
+patente;id_pedidodo;comidas;tiempo_estimado;tiempo_real;total_pedido
+AKE652;c_2059;pollo al horno,papas,gaseosa;20;25;15248
+AZE523;p_2060;empanadas,malbec;15;28;25863.65
+PKU452;t_2058;carne asada, vino tinto, soda;30;24;18785.12
+PKU452;r_2530;empanadas,malbec,soda,coca;25;28;78654
+AZE523;r_2531;empanadas,malbec,soda,coca;25;28;23000
